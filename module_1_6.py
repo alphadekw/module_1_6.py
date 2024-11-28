@@ -21,3 +21,6 @@ print(my_set)
 
 (my_set.discard(2))
 print(my_set)
+
+delete = my_set.pop()
+print(my_set)
